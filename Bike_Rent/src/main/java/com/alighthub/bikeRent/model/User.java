@@ -10,7 +10,7 @@ import javax.persistence.OneToOne;
 
 @Entity
 public class User {
-	
+	// hello update by akash
 	
 	@Id
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
