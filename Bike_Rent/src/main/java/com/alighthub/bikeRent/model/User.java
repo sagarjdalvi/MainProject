@@ -12,6 +12,7 @@ import javax.persistence.OneToOne;
 public class User {
 	// Update by akash
 	// update 2 by akash
+	// update 3 by akash
 	@Id
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
 	private int user_id;
